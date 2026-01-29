@@ -1,0 +1,7 @@
+{
+  "name": "Articulate AI",
+  "description": "Personalized communication coach with voice and tone analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
